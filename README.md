@@ -96,12 +96,13 @@ The interactive dashboard includes:
 
 ## 📂 Repository Contents
 
-| File                                               | Description                    |
-| -------------------------------------------------- | ------------------------------ |
-| 📊 **FUTURE_INTERNS_TASK2(TELECHURN).xlsm**        | Interactive Excel Dashboard    |
-| 🖼️ **FUTURE_INTERNS_TASK2(TELECUSTOMER) Img.png** | Dashboard Preview              |
-| 🎥 **future_interns_task2_Tele.mp4**               | Dashboard Demonstration Video  |
-| 📷 **enable navigations.jpeg**                     | Steps to Enable VBA Navigation |
+| File                                                                       | Description                                      |
+| -------------------------------------------------------------------------- | ------------------------------------------------ |
+| 📊 [Interactive Excel Dashboard](FUTURE_INTERNS_TASK2%28TELECHURN%29.xlsm) | Fully interactive Excel dashboard (.xlsm)        |
+| 🖼️ [Dashboard Preview](FUTURE_INTERNS_TASK2%28TELECUSTOMER%29%20Img.png)  | Dashboard screenshot                             |
+| 🎥 [Dashboard Demonstration](future_interns_task2_Tele.mp4)                | Video walkthrough of the dashboard               |
+| 📷 [Enable Navigation Guide](enable%20navigations.jpeg)                    | Steps to enable VBA navigation after downloading |
+
 
 ---
 
