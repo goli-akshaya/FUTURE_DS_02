@@ -129,7 +129,7 @@ The dataset contains customer demographics, subscribed services, contract inform
 
 **Internship:** Data Science & Analytics Internship
 
-**Organization:** Future Interns
+**Organization:** Future Interns https://www.linkedin.com/company/future-interns/posts/?feedView=all
 
 **Task:** Task 2 – Customer Retention & Churn Analysis
 
